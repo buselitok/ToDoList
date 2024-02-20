@@ -56,9 +56,7 @@
     text-align: center;
     display: none;
 }
-.input-group{
-    margin-left: 60px;
-}
+
 .fall { /* silme butonuna bastıktan sonra dönme efekti vererek liste elemanının kaybolmasını sağlıyoruz */
     transform: translateY(1rem) rotateZ(180deg);
     opacity: 0;
